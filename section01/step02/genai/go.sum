@@ -1,0 +1,6 @@
+github.com/gohandson/genai-ja/skeleton/section01/step02/genaichat v0.0.0-20231129020000-def3d5470f80 h1:Nnk8UUnuqQXQta9zIiKg3R3kaGgFAYD+dmfbYJoKXSA=
+github.com/gohandson/genai-ja/skeleton/section01/step02/genaichat v0.0.0-20231129020000-def3d5470f80/go.mod h1:nXSl75T9+JWbVPrrXYHM18ARGTPpJRBESnjaSm46LG0=
+github.com/gohandson/genai-ja/solution/section01/step02/genaichat v0.0.0-20231129020000-def3d5470f80 h1:41zkl/mNUf98d57ZkkxgNzwbnUKBWIrRhoOUy6iOXpE=
+github.com/gohandson/genai-ja/solution/section01/step02/genaichat v0.0.0-20231129020000-def3d5470f80/go.mod h1:nXSl75T9+JWbVPrrXYHM18ARGTPpJRBESnjaSm46LG0=
+github.com/sashabaranov/go-openai v1.17.9 h1:QEoBiGKWW68W79YIfXWEFZ7l5cEgZBV4/Ow3uy+5hNY=
+github.com/sashabaranov/go-openai v1.17.9/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
